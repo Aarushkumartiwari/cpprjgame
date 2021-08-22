@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Asap:wght@400;600&display=swap');
+
+*{
+    padding: none ;
+    margin: none;
+}
+
+body{
+    font-family: 'Asap', sans-serif;
+}
+
+#div1{
+    margin-top: 0px;
+    text-align: center;
+    font-size: 2em;
+   color : white;
+
+}
+
+#div2{
+    height: 550px;
+}
+
+a{
+    text-decoration: none;
+    color: blue ;
+}
+
+#yes{
+    align-items: center;
+}
+
+.end{
+  justify-content: flex-end; 
+  display: flex;  
+}
+
+div{
+    color: white;
+}
+
+#incorrect{
+   height: 700px;
+   display: flex ;
+   align-items: center;
+   text-align: center;
+}
+
+#correct{
+           
+   height: 700px;
+   display: flex ;
+   align-items: center;
+   text-align: center;
+
+}
+
+#complete{
+    
+    background-image: url(https://techstacker.com/394f57eabf42f57e02ac267632ae6138/animatedbackround.gif) ;
+}
+
+#last{
+         background-color: black;   
+}
